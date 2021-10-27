@@ -3,6 +3,6 @@
 
 로버트 C. 마틴의 클린코드 서적 기반의 스터디
 
-![](./cleanCode.png)
+![](https://github.com/zeemoong/cleanCode/blob/main/cleanCode.PNG)
 
 
